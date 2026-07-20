@@ -29,6 +29,35 @@ The application allows users to:
 
 The project uses a PostgreSQL database provided by the university.
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+Moi c'est Leopold, je suis étudiant en troisième année de licence informatique à l'Université Claude Bernard Lyon 1.
+
+J'aime voir les choses en grand, puis construire jusqu'à les rendre réelles. Jusqu'à présent, la plupart de mes projets ont été des jeux.
+
+Je cherche maintenant à découvrir et à développer d'autres types de projets logiciels.
+
+### Projets
+
+**Simulation de gestion d'un café**
+
+Un jeu de gestion de café en 2D développé en C++ avec SDL2.
+
+Les joueurs peuvent organiser leur café, acheter des équipements, gérer leurs employés et servir les clients.
+
+Ce projet a été réalisé au sein d'une équipe de trois personnes.
+
+**Application web de bataille navale**
+
+Un jeu de bataille navale en ligne développé selon une architecture MVC avec PostgreSQL, Python, PHP et HTML.
+
+L'application permet de :
+
+- Rechercher des joueurs existants
+- Consulter les profils des joueurs et les informations sur leurs parties
+- Créer des parties
+- Jouer contre des adversaires contrôlés par l'ordinateur
+
+Le projet utilise une base de données PostgreSQL fournie par l'université.
 
 
