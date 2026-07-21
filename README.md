@@ -29,6 +29,8 @@ The application allows users to:
 
 The project uses a PostgreSQL database provided by the university.
 
+[Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Moi c'est Leopold, je suis étudiant en troisième année de licence informatique à l'Université Claude Bernard Lyon 1.
