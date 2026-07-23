@@ -16,6 +16,8 @@ Players can organize their café, purchase equipment, manage employees, and serv
 
 This project was developed as part of a three-person team.
 
+[PanicAuLatte repository](https://github.com/nahasleopold/PanicAuLatte)
+
 **Battleship Web Application**
 
 A web-based Battleship game developed using an MVC architecture with PostgreSQL, Python, PHP, and HTML.
@@ -49,6 +51,8 @@ Les joueurs peuvent organiser leur café, acheter des équipements, gérer leurs
 
 Ce projet a été réalisé au sein d'une équipe de trois personnes.
 
+[PanicAuLatte repository](https://github.com/nahasleopold/PanicAuLatte)
+
 **Application web de bataille navale**
 
 Un jeu de bataille navale en ligne développé selon une architecture MVC avec PostgreSQL, Python, PHP et HTML.
@@ -62,4 +66,4 @@ L'application permet de :
 
 Le projet utilise une base de données PostgreSQL fournie par l'université.
 
-
+[Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
