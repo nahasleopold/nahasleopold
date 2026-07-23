@@ -33,7 +33,7 @@ The project uses a PostgreSQL database provided by the university.
 
 [Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
 
-##More Projects;
+## More Projects
 [volcanic-world-opengl](https://github.com/nahasleopold/volcanic-world-opengl)
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -71,5 +71,5 @@ Le projet utilise une base de données PostgreSQL fournie par l'université.
 
 [Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
 
-##Plus de Projets
+## Plus de Projets
 [volcanic-world-opengl](https://github.com/nahasleopold/volcanic-world-opengl)
