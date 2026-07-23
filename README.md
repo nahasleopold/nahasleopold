@@ -33,6 +33,9 @@ The project uses a PostgreSQL database provided by the university.
 
 [Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
 
+##More Projects;
+[volcanic-world-opengl](https://github.com/nahasleopold/volcanic-world-opengl)
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Moi c'est Leopold, je suis étudiant en troisième année de licence informatique à l'Université Claude Bernard Lyon 1.
@@ -67,3 +70,6 @@ L'application permet de :
 Le projet utilise une base de données PostgreSQL fournie par l'université.
 
 [Battleship-Web-Application repository](https://github.com/nahasleopold/Battleship-Web-Application)
+
+##Plus de Projets
+[volcanic-world-opengl](https://github.com/nahasleopold/volcanic-world-opengl)
